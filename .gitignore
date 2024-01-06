@@ -1,0 +1,5 @@
+*.db
+*.db-journal
+*.sqbpro
+homeworktest.py
+testing.py
